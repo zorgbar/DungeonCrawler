@@ -1,0 +1,4 @@
+There are a number of known bugs in the game.
+1. "Ghost Enemies": Currently when generating dungeons, sprites that do not do anything appear around the dungeon.
+2. Equipping an item while an item is equipped will delete the old item.
+3. Ranged enemies struggle to attack the player in the latest release of the game.
